@@ -1,0 +1,12 @@
+file 'images/image_1.webp'
+duration 5
+file 'images/image_2.webp'
+duration 5
+file 'images/image_3.webp'
+duration 5
+file 'images/image_4.webp'
+duration 5
+file 'images/image_5.webp'
+duration 5
+file 'voiceovers/voiceover_5.mp3'
+duration 5

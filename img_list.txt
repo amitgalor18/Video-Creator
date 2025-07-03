@@ -1,0 +1,11 @@
+file 'images/image_1.webp'
+duration 3.616
+file 'images/image_2.webp'
+duration 3.064
+file 'images/image_3.webp'
+duration 3.664
+file 'images/image_4.webp'
+duration 2.992
+file 'images/image_5.webp'
+duration 2.8
+file 'images/image_5.webp'
